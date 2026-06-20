@@ -5,4 +5,4 @@ resources:
   - ../../base
 images:
   - name: ghcr.io/paystream/app
-    newTag: 5387344db59e97917778d892b75b450fab135043
+    newTag: v1.0.0
